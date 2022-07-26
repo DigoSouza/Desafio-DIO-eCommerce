@@ -1,0 +1,11 @@
+nav{
+    text-transform: uppercase;
+}
+
+nav a{
+    padding: 0px 5px 0px 5px;
+}
+
+a:hover{ 
+    font-weight: bold;
+}
